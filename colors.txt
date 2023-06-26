@@ -1,0 +1,3 @@
+podatne_na_choroby: original=[147,107,76] detected=[53,41,66]
+parch: original=[212,159,65] detected=[83,61,69]
+maczniak: original=[249,246,227] detected=[92,96,106]
